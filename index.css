@@ -1,0 +1,24 @@
+html{
+    background-color: #5E6164;
+}
+h1{
+    font-size: 40pt;
+    font-family:"Lucida", sans-serif;
+    color: #171B20;
+    padding:15px;
+    top:0;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    border: 15px solid #171B20;
+}
+p{
+    font-size: 16pt;
+    font-family: "Lucida", sans-serif;
+    color: #171B20;
+    padding: 15px;
+    text-align: center;
+}
